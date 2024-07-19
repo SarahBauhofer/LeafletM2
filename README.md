@@ -28,6 +28,7 @@ Diese Prohjekt ist unter der Unlicense lizensiert. Siehe die LICENSE-Datei für 
 Eine Mitwirkung ist ausschließlich den Beteiligten der Firma gestattet. Falls Mitwirkungen angegeben werden sollen/ wollen, muss hier die Zustimmung der Firma erfolgen und Kontakt aufgenommen werden.
 
 # fnaler Code
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
